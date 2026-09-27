@@ -2,13 +2,14 @@
 
 # ~Japanese Yoga
 
-The base-idea behind these exercises in "Japanese" yoga (which all-told are my ridiculous invention, not traditional Japanese practice) is that anecdotally it is said that Japanese people's practice of standing up and sitting down frequently on 'tatami mats' (essentially: on the floor, not chairs) is very good daily exercise that keeps Japanese people fit and limber into old age.
+The base-idea behind these exercises in "Japanese" yoga (which all-told are my ridiculous invention, not traditional Japanese practice) is that anecdotally it is said that Japanese people's practice of standing up and sitting down frequently on 'tatami mats' (essentially: on the floor, not chairs) is very good daily exercise that keeps Japanese people fit and limber into old age. (Routinely going up and down large flights of stairs (e.g. at the local shrine in the mountain) is another health-associated custom.)
 
 The bigger goal was to adapt this type of exercise into something that could exercise the upper-body even more.
 
 
-So this is broken down into "levels," where each level builds on the previous level.
+So this is broken down into "levels," where each level builds on the previous level. And there are at least two places where there are natural 'exersize' loops of however many (N) repetitions you want.
 
+### Levels & Loops:
 
 - level-1 is just sitting down and standing up. (This much likely is a Japanese minimalist form of exercise.)
 
